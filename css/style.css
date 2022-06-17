@@ -386,7 +386,7 @@ button:focus {
         font-size: 70px;
         line-height: 60px;
         margin-bottom: 25px; }
-        @media (max-width: 1024px) {
+        @media (max-width: 1524px) {
           .home_banner_area .banner_inner .banner_content h1 {
             font-size: 60px; } }
         @media (max-width: 767px) {
